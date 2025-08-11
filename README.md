@@ -68,7 +68,15 @@ Boxplots for fare vs class.
 BELOW IMAGES ARE UPLOADED FOR DEATILED
 
 
-1)SERVIVAL RATE BY GENDER
-
 <img width="705" height="556" alt="TITANIC" src="https://github.com/user-attachments/assets/0261c00c-a8f4-47b4-8d15-9d3c388cb65d" />
+
+
+<img width="787" height="686" alt="TITANICCCC" src="https://github.com/user-attachments/assets/57d70a40-be70-45d8-ac29-8ff3a5d45dd0" />
+
+<img width="860" height="556" alt="TITANICCC" src="https://github.com/user-attachments/assets/6acfbf86-bcc2-452e-882e-0810a15ba795" />
+
+
+<img width="705" height="556" alt="TITANICC" src="https://github.com/user-attachments/assets/4582dbd2-c7d5-4210-9d15-31bee22b5039" />
+
+
 
