@@ -64,8 +64,7 @@ Histograms for age distribution.
 Heatmap for correlations.
 
 Boxplots for fare vs class.
-
-
+1)SERVIVE RATE BY GENDER
 
 <img width="705" height="556" alt="TITANIC" src="https://github.com/user-attachments/assets/0261c00c-a8f4-47b4-8d15-9d3c388cb65d" />
 
